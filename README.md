@@ -1,4 +1,4 @@
-# NPLCoderGENAIFELLOWSHIP_PythonBrushup 💯 💥
+# NPLCoderGENAIFELLOWSHIP_PythonBrushup 💯
 
 <div align="center">
   <img src="assets/logo.png" alt="Python Tutorial Logo" width="300" style="border-radius: 10px; margin: 20px 0;"/>
